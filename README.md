@@ -1,4 +1,4 @@
-# vibe checking machine
+# vibe checking (first js APP)
 
 This is a simple semester  web project made using **HTML, CSS, and JavaScript**.
 It asks you 5 multiple-choice questions and tells you your "vibe" based on your answers.
